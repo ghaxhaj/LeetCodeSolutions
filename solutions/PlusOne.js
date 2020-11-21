@@ -30,10 +30,12 @@ function plusOne(d){
     newD.push(num.toString()[i])
     }
     return console.log(newD)
-    
+
 }
 
 plusOne([9,2,3])
-plusOne([4,3,2,1])
-plusOne([0])
+
+
+// plusOne([4,3,2,1])
+// plusOne([0])
 plusOne([1,2,3,4,5,6,7])
