@@ -13,3 +13,6 @@ function lengthOfLastWord(n){
 
 lengthOfLastWord("Hello World")
 lengthOfLastWord("s s")
+
+
+//Second
