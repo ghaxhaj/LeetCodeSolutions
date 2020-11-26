@@ -15,4 +15,3 @@ lengthOfLastWord("Hello World")
 lengthOfLastWord("s s")
 
 
-//Second
