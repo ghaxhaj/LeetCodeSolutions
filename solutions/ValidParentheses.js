@@ -17,8 +17,6 @@
 // Output: true
 
 
-
-
 // Example 2:
 
 // Input: s = "()[]{}"
