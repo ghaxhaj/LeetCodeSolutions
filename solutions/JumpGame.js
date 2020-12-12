@@ -21,7 +21,7 @@ function jumpGame(n){
     //Numbers in array indicate how many spaces to jump
     //If i reaches the last number in the array, return true 
     //if I goes not reach last number in array, goes false
-
+ 
    
     for(let i = 0; i < n.length; i++){
         let counter = i + n[i]
