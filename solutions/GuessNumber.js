@@ -11,7 +11,7 @@
 // -1: The number I picked is lower than your guess (i.e. pick < num).
 // 1: The number I picked is higher than your guess (i.e. pick > num).
 // 0: The number I picked is equal to your guess (i.e. pick == num).
-// Return the number that I picked.
+// Return the number that I picked
 
 
 var guessNumber = function (n) {  
