@@ -13,7 +13,7 @@
 // 0: The number I picked is equal to your guess (i.e. pick == num).
 // Return the number that I picked.
 
-var guessNumber = function (n) {
+var guessNumber = function (n) {  
    
     if (guess(n) === 0) return n
   
