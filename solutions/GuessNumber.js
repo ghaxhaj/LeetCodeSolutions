@@ -14,7 +14,7 @@
 // Return the number that I picked.
 
 var guessNumber = function (n) {
-
+   
     if (guess(n) === 0) return n
   
     let low = 1, high = n;
