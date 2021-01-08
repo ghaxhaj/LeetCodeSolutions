@@ -23,7 +23,6 @@ function keyboardRow(arr){
      return solution
     }
 
-    
 
 
 console.log(keyboardRow(["Hello", "Alaska", "Dad", "Peace"]))
