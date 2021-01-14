@@ -25,4 +25,4 @@ function keyboardRow(arr){
 
 
 
-console.log(keyboardRow(["hello", "Alaska", "Dad", "Peace"]))vbv
+console.log(keyboardRow(["hello", "Alaska", "Dad", "Peace"]))
