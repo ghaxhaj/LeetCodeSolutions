@@ -44,5 +44,5 @@ function maxSubArray(nums) {
 };
 
 console.log(maxSubArray([-2,1,-3,4,-1,2,1,-5,4]))
-console.log(maxSubArray([-1,-1]))
-console.log(typeof 22)
+console.log(maxSubArray([-2,-1]))
+//console.log(typeof 22)
