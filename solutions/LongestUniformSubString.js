@@ -1,7 +1,9 @@
 // Given a string, find the longest uniform sub-string in it. Return the repeating character and the number of times it repeats.
 
 // Solution
-// Let us take an example string like “abcdddss“. The question is asking us to return the longest sub-string with the same characters. In this case the longest uniform sub-string is “ddd". So, we need to return d as the repeating character and 3 as number of times it repeats.
+// Let us take an example string like “abcdddss“. The question is asking us to return the longest sub-string with the same characters. 
+//In this case the longest uniform sub-string is “ddd". So, we need to return d as the repeating character and 3 as number of times it
+//repeats.
 
 
 function longestUniformSubString(s){
