@@ -37,3 +37,4 @@ function climbStairs(n, count = 0){
 
 console.log(climbStairs(2))
 console.log(climbStairs(4))
+console.log(climbStairs(3))

@@ -37,7 +37,9 @@ var addTwoNumbers = function(l1, l2) {
   for(let k = 0; k < result.length; k++){
         result[k] = parseInt(result[k]);
     }
+    
   console.log(result)
+  return result;
 
 };
 
