@@ -52,3 +52,24 @@ let l2 = [9,9,9,9]
 addTwoNumbers(l1,l2);
 
 addTwoNumbers([0],[0]);
+
+
+//ALTERNATE SOLUTION
+
+// var addTwoNumbers = function(l1, l2) {
+  
+//     let num1 = parseInt(l1.reverse().join().replace(/,/g,''))
+//     let num2 = parseInt(l2.reverse().join().replace(/,/g,''))
+//     let result = num1 + num2;
+//     return result.toString().split('').reverse().map(num => parseInt(num))
+
+  
+// };
+
+// let l1 = [2,4,3];
+// let l2 = [5,6,4];
+// console.log(addTwoNumbers(l1,l2))
+// l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
+// console.log(addTwoNumbers(l1,l2))
+// l1 = [0], l2 = [0]
+// console.log(addTwoNumbers(l1,l2))
