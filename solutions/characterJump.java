@@ -42,5 +42,6 @@ return res;
     System.out.println(minNumOfJumps("abcacbak"));//2
     System.out.println(minNumOfJumps("abcd")); //3
     System.out.println(minNumOfJumps("abcabcabc")); //3
+    
   }
 }
