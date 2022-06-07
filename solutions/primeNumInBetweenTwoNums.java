@@ -28,10 +28,6 @@ Then the third was given two numbers find out how many numbers in between those 
         }
       }
 
-      if(listOfNums.get(i) == 2){
-        isPrime = true;
-      }
-
        if(isPrime){
           result++;
         }
