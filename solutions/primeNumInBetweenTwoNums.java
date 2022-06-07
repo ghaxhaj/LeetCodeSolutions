@@ -4,7 +4,7 @@ class Main {
 
 
   /*
-Then the third was given two numbers find out how many numbers in between those numbers are divisible by another number.
+Then the third was given two numbers find out how many numbers in between those numbers are prime.
 */
 
   public static int numOfDiv(int a, int b){
