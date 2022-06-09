@@ -36,7 +36,7 @@ Ex
       
       temp += arrayToList.get(j);
     }
-  System.out.println(temp);
+
     if(temp > maxForAmy){
       indexForAmy = i;
       maxForAmy = temp;
